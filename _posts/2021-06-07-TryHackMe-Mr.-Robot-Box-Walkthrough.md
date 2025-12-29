@@ -226,4 +226,4 @@ To conclude, I was able to capture all of those three flags. There are multiple 
 
 Thank you for bearing with me this far. Have good time folks.
 
-!! Happy Learning 😎😎 !!
+!! Happy Learning !!

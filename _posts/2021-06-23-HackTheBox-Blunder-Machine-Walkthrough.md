@@ -185,4 +185,4 @@ _Gaining the root flag_
 ### 21. Conclusion
 In this way, both user flag and root flag on the Blunder machine were captured. Thank you for bearing with me this far. Have good time folks.
 
-!! Happy Hacking😎😎 !!
+!! Happy Hacking !!
