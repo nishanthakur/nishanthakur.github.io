@@ -1,4 +1,4 @@
-# Nishan Thakur's Personal Blog
+# Nishant Thakur's Personal Blog
 
 Welcome to my personal blog repository! This site is built using [Jekyll](https://jekyllrb.com/) with the [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) theme and hosted on GitHub Pages.
 
