@@ -30,7 +30,7 @@ TryHackMe is an online platform that teaches cybersecurity through short, gamifi
 Enough about TryHackMe VPN configuration, now let us start the walk-through of Mr Robot Box.
 
 ## 4. Introduction to Mr Robot Box
-Mr. Robot is a free room created by [Leon Johnson](x.com/sho_luv) with having difficulty rating of Medium.
+Mr. Robot is a free room created by Leon Johnson with having difficulty rating of Medium.
 ![Mr. Robot](/assets/img/posts/mr-robot-box-walkthrough/3.webp)
 
 Let us begin the scanning and enumeration process.
