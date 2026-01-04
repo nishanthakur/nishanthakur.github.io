@@ -1,3 +1,10 @@
+---
+title: "Analysing Network Traffic using Wireshakr"
+date: 2026-01-04
+categories: [Blue-Team, THM]
+tags: [Blue Team, Wireshark]
+---
+
 # Overview
 Network traffic analysis is a critical skill for security analysts, incident responders, and network administrators. In today's threat landscape, understanding how to identify malicious activities hidden within legitimate network traffic can mean the difference between detecting an attack early and dealing with a full-scale breach.
 
