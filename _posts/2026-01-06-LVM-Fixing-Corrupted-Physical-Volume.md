@@ -8,7 +8,7 @@ tags: [LVM, Linux, Hard Drives, Systems]
 
 ## Introduction
 
-Logical Volume Manager (LVM) is a powerful storage management system in Linux that provides flexibility in managing disk space. However, like any storage system, LVM configurations can become corrupted due to accidental disk operations, failed hardware, or administrative errors. When a Physical Volume (PV) loses its LVM metadata—particularly the critical "LABELONE" header—the entire Volume Group (VG) and its Logical Volumes (LVs) can become inaccessible.
+Logical Volume Manager (LVM) is a powerful storage management system in Linux that provides flexibility in managing disk space. However, like any storage system, LVM configurations can become corrupted due to accidental disk operations, failed hardware, or administrative errors. When a Physical Volume (PV) loses its LVM metadata particularly the critical **"LABELONE"** header the entire Volume Group (VG) and its Logical Volumes (LVs) can become inaccessible.
 
 This guide demonstrates how to recover from PV corruption using LVM's built-in backup and restore mechanisms. We'll walk through a real-world scenario where a PV's metadata was accidentally overwritten and show the complete restoration process.
 
@@ -374,4 +374,4 @@ To minimize the risk of PV corruption and ensure recoverability:
 7. **Automate Backups:** Include `/etc/lvm/backup/` and `/etc/lvm/archive/` in system backups
 
 ## Conclusion
-LVM's built-in backup mechanism provides a robust solution for recovering from physical volume corruption. By maintaining current backups in `/etc/lvm/backup/` and knowing the original PV UUIDs, administrators can quickly restore corrupted PVs without data loss. Remember that this process only restores LVM metadata—if actual data is corrupted, additional recovery steps may be necessary. Always maintain regular filesystem-level backups alongside LVM configuration backups.
+LVM's built-in backup mechanism provides a robust solution for recovering from physical volume corruption. By maintaining current backups in `/etc/lvm/backup/` and knowing the original PV UUIDs, administrators can quickly restore corrupted PVs without data loss. Remember that this process only restores LVM metadata if actual data is corrupted, additional recovery steps may be necessary. Always maintain regular filesystem-level backups alongside LVM configuration backups.
