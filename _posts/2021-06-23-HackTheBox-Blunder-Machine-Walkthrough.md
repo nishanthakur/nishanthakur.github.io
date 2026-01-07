@@ -1,8 +1,13 @@
 ---
 title: "HackTheBox Blunder Machine Walkthrough"
-date: 2021-06-23
+date: 2021-06-23 00:00:00 +0545
 categories: [Red-Team, Labs]
-tags: [Pentesting, HTB, Blunder]
+tags: [pentesting, htb, blunder, bludit, cms-exploitation, bruteforce, privilege-escalation, sudo-bypass, cewl, metasploit, hash-cracking]
+author: nishant_thakur
+description: "Complete walkthrough of HackTheBox Blunder machine. Learn Bludit CMS exploitation, brute force protection bypass, privilege escalation via sudo misconfiguration, and capture user and root flags."
+pin: false
+math: false
+mermaid: false
 ---
 
 

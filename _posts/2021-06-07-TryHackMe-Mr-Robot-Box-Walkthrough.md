@@ -1,8 +1,13 @@
 ---
-title: "TryHackMe - Mr Robot Box Walk through"
-date: 2021-06-21
+title: "TryHackMe - Mr Robot Box Walkthrough"
+date: 2021-06-21 00:00:00 +0545
 categories: [Red-Team, CTF]
-tags: [Pentesting, TryHackMe, Mr.Robot]
+tags: [pentesting, tryhackme, mr.robot, wordpress, privilege-escalation, suid, nmap, gobuster, ctf-walkthrough]
+author: nishant_thakur
+description: "Complete walkthrough of the TryHackMe Mr Robot CTF box. Learn WordPress exploitation, privilege escalation via SUID binaries, and capture all three flags in this medium-difficulty challenge."
+pin: false
+math: false
+mermaid: false
 ---
 
 ## 1. Overview

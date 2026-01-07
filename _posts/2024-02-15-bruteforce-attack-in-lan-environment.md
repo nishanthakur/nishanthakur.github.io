@@ -1,8 +1,16 @@
 ---
 title: "Brute Force Attack in LAN Environment"
-date: 2021-02-15
+date: 2021-02-15 00:00:00 +0545
 categories: [Red-Team, Labs]
-tags: [pentest, bruteforce, gns3, metasploit]
+tags: [pentest, bruteforce, gns3, metasploit, smb-exploitation, ssh-bruteforce, telnet-attack, eternalblue, network-security, credential-attacks]
+author: nishant_thakur
+# image:
+#   path: /assets/img/posts/bruteforce-attack-in-lan-environment/gns3.webp
+#   alt: "Brute Force Attack Lab Setup in GNS3"
+description: "Practical demonstration of brute force attacks in LAN environments using Metasploit. Learn how attackers compromise Windows, Linux, and network devices through SMB, SSH, and Telnet services, plus effective mitigation strategies."
+pin: false
+math: false
+mermaid: false
 ---
 
 ## 1. Overview

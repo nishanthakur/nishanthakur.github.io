@@ -1,8 +1,32 @@
 ---
-title: "Analysing Network Traffic using Tshark"
-date: 2026-01-04
-categories: [Blue-Team, THM]
-tags: [Blue Team, Tshark]
+title: "Analysing Network Traffic using TShark: Complete Command-Line Guide"
+date: 2026-01-04 10:00:00
+categories: [Blue-Team, Network Security, Packet Analysis]
+tags: [tshark, network-analysis, packet-capture, soc, pcap-analysis, command-line-tools, incident-response, network-forensics, thm, tryhackme]
+# image:
+#   path: /assets/img/posts/tshark-analysis.png
+#   alt: "TShark Network Traffic Analysis - Comprehensive command-line packet analysis guide for SOC analysts"
+description: "Master TShark for command-line packet analysis. Learn capture filters, display filters, protocol statistics, credential extraction, and artifact analysis for effective network forensics and incident response."
+keywords:
+  - TShark tutorial
+  - network traffic analysis
+  - packet capture command line
+  - Wireshark CLI
+  - TShark filters
+  - PCAP analysis
+  - network forensics tools
+  - SOC analyst tools
+  - display filters TShark
+  - capture filters TShark
+  - extract credentials PCAP
+  - TShark statistics
+  - network security analysis
+  - command line packet analyzer
+pin: false
+math: false
+mermaid: false
+toc: true
+comments: true
 ---
 
 

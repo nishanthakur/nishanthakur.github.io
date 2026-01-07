@@ -2,7 +2,7 @@
 title: "Analysing Network Traffic using Wireshark"
 date: 2026-01-04
 categories: [Blue-Team, THM]
-tags: [Blue Team, Wiresharkm]
+tags: [Blue Team, Wireshark]
 ---
 
 # Overview

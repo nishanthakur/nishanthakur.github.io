@@ -1,8 +1,16 @@
 ---
 title: "THM: Linux Live Analysis"
-date: 2025-12-29
+date: 2025-12-29 00:00:00 +0545
 categories: [Blue-Team, TryHackMe]
-tags: [Linux, Forensics, OSquery]
+tags: [linux, forensics, osquery, incident-response, digital-forensics, live-analysis, volatile-data, process-analysis, network-forensics, thm]
+author: nishant_thakur
+# image:
+#   path: /assets/img/posts/linux-live-analysis/thm-linux-live-analysis.png
+#   alt: "Linux Live Analysis - TryHackMe"
+description: "Complete guide to Linux live forensics and incident response. Learn to identify malicious processes, analyze network connections, investigate file artifacts, and use osquery for volatile data analysis on compromised systems."
+pin: false
+math: false
+mermaid: false
 ---
 
 ## 1. Overview
